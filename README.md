@@ -52,8 +52,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lsiniestro/Lsiniestro/output/snake.svg" alt="Snake animation" />
 
 ###
